@@ -1,10 +1,10 @@
 # 100 Days of JavaScript
 
-Collection of <a href="https://youtube.com/#AsmrProg" target="_blank">AsmrProg</a> Youtube Channel 100 days of JavaScript Coding <a href="https://www.youtube.com/playlist?list=PLkC56g8fboI0HghByzVuD2Vz8ROUXfF_j" target="_blank">Playlist</a> Codes!
+Collection of <a href="https://youtube.com/#AsmrProg" target="_blank">RK</a> Youtube Channel 100 days of JavaScript Coding <a href="https://www.youtube.com/playlist?list=PLkC56g8fboI0HghByzVuD2Vz8ROUXfF_j" target="_blank">Playlist</a> Codes!
 
 ### Tutorial Video's
 
-Find Video's on : <a href="https://youtube.com/@AsmrProg" target="_blank">AsmrProg</a> Youtube Channel
+Find Video's on : <a href="https://youtube.com/@AsmrProg" target="_blank">RKpain</a> Youtube Channel
 
 # Projects
 
